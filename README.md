@@ -2,6 +2,12 @@
 
 **A hands-on guide to set up, run, and experience observability using a real-world example app.**
 
+## 🎯 What You'll Learn
+
+- A guide on setting up SigNoz (self-hosted version) using Docker.
+- Instructions on how to add OpenTelemetry to a Python Flask application.
+- Steps for sending traces, metrics, and logs to SigNoz.
+
 ---
 
 ## 📦 Project Structure
@@ -136,13 +142,6 @@ python generate_traffic.py
   - **Metrics/Dashboards:** Observe throughput, latency, and error spikes.
 
 ---
-
-## 🎯 What You'll Learn
-
-- How to deploy SigNoz (self-hosted) with Docker
-- How to instrument a Python Flask application with OpenTelemetry
-- How to send traces, metrics, and logs to SigNoz
-- How to explore and visualize observability data
 
 ## 📊 Expected Outcome
 

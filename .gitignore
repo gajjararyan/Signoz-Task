@@ -65,7 +65,6 @@ coverage.xml
 .pyre/
 
 # VS Code
-.vscode/
 
 # PyCharm
 .idea/
@@ -78,5 +77,5 @@ Thumbs.db
 Desktop.ini
 
 # dotenv
-.env
-.env.* 
+config.bat
+node_modules
