@@ -74,7 +74,7 @@ Use these credentials to access the SigNoz dashboard and start exploring your ob
 
 1. **Clone your repository (optional if you're setting up manually):**
    ```bash
-   git clone <your-repo-url> signoz-task
+   git clone https://github.com/gajjararyan/Signoz-Task
    cd signoz-task
    ```
 
