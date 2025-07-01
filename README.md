@@ -1,4 +1,4 @@
-# 🚀 signoz-task: Real-World Observability Demo with Python, OpenTelemetry & SigNoz
+# signoz-task: Real-World Observability Demo with Python, OpenTelemetry & SigNoz
 
 **A hands-on guide to set up, run, and experience observability using a real-world example app.**
 
